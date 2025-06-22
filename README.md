@@ -141,7 +141,7 @@ This project aims to empower users with clear, actionable insights from their me
 1. **Clone the Repository**  
    Clone the repository and navigate into it:
    ```bash
-   git clone https://github.com/your-repo-url/rag-medical-reports.git](https://github.com/Krishnanshu-Gupta/RAG-LLM-Medical-Reports.git)
+   git clone https://github.com/your-repo-url/rag-medical-reports.git](https://github.com/Vinzeee/RAG-LLM-Medical-Reports.git)
    cd RAG-LLM-Medical-Reports/
    ```
 
